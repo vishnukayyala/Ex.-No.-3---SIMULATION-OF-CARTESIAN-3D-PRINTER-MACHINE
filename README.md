@@ -116,7 +116,7 @@ The motor in the Z-axis of a 3D printer is crucial for controlling the vertical 
 
 
 ### Name: VISHNU KM
-### Register Number:2300013
+### Register Number:23000132
 
 ## Result: 
 
